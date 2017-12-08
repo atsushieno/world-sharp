@@ -1,0 +1,6 @@
+[submodule "external/World"]
+	path = external/World
+	url = https://github.com/mmorise/World.git
+[submodule "external/nclang"]
+	path = external/nclang
+	url = https://github.com/atsushieno/nclang.git
